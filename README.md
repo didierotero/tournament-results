@@ -1,1 +1,1 @@
-echo # tournament-results
+# tournament-results
